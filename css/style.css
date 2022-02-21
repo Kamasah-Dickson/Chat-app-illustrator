@@ -2,7 +2,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Rubik', sans-serif;
 }
 
 img {
@@ -315,10 +315,13 @@ main .container .grid .right-details {
 main .container .grid .right-details .paragraph {
   line-height: 30px;
   font-weight: 500;
+  color:hsl(270, 7%, 64%);
+  
 }
 main .container .grid .right-details h1 {
   font-size: 2.5rem;
   margin-bottom: 1rem;
+  color:hsl(271, 15%, 43%);
 }
 
 footer {
